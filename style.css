@@ -1,3 +1,9 @@
-.cabecalho {background-color:#723B3B;color: aqua;display:flex;justify-content: space-around;}
-.cabecalho-imagem{width: 30%;}
-.cabecalho-lista-item { display: inline-block;margin: 0 16px;padding: 24px 0;font-size: 24px;}
+*{margin: 0;padding: 0;}
+.aventura-imagem{width: 40%;}
+.cabecalho {background-color:#723B3B;color: aqua;display:flex;justify-content: space-around;align-items: center;padding: 24px 0;}
+.cabecalho-lista-item *{ display: inline-block;margin: 0 16px;padding: 24px 0;font-size: 24px;}
+.drone-aventura{width: 25%;}
+.aventura {background-image:linear-gradient(#723B3B,#23AF74);color:rgb(22, 21, 22);display: flex;justify-content: center;align-items: center;padding: 24px;}
+.aventura-div-conteudo{ width: 35%;}
+.aventur-titulo{padding: 24px 0;}
+
