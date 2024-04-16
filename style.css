@@ -2,7 +2,7 @@
 .aventura-imagem{width: 40%;}
 .cabecalho {background-color:#723B3B;color: aqua;display:flex;justify-content: space-around;align-items: center;padding: 24px 0;}
 
-body {font-family: "Poppins", sans-serif;}
+ body {font-family: "Poppins", sans-serif;}
 .cabecalho-lista-item *{ display: inline-block;margin: 0 16px;padding: 24px 0;font-size: 24px;}
 .drone-aventura{width: 25%;}
 .aventura {background-image:linear-gradient(#723B3B,#23AF74);color:rgb(22, 21, 22);display: flex;justify-content: center;align-items: center;padding: 24px;}
@@ -10,5 +10,11 @@ body {font-family: "Poppins", sans-serif;}
 .aventur-titulo{padding: 24px 0;}
 .drone-imagem{ width: 250px; color: gray;}
 .endereço {display:inline-block;margin: 0 300px;padding: 40px 0;font-size: 20px;}
-.endereço-icone{width:24px;}
-.endereço-div{text-align:center:}
+.endereço-icone{width: 40px;} 
+.endereço-div {text-align: center;}
+.drone-titulo{text-align: center;padding:40px 0;}
+.drone-todos{ display: grid; grid-template-columns: 30% 30% 30% 30%;}
+.drones{background-color: #c2afaf;}
+.rodape{background-color: black; text-align: center;}
+.rodape-imagem{height: 25px;padding: 12px 0;}
+.drone-montanha{height: 300px;}
